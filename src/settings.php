@@ -46,7 +46,7 @@ return [
 
         // Monolog settings
         'logger' => [
-            'name' => 'Masry Exams API ',
+            'name' => 'Your Log API ',
             'path' => $log,
             'level' => \Monolog\Logger::DEBUG,
         ],

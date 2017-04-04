@@ -9,6 +9,7 @@ All parse server SDK Objects will be used as DI for Slim App So you will use it 
 
 .
     1-Clone The repository .
+
     2-Install all dependences using Composer
 
 To run the application in development, you can also run this command. 
