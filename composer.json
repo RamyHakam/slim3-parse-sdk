@@ -1,6 +1,6 @@
 {
-    "name": "slim/parse-sdk",
-    "description": "/Slim Framework 3 With Parse Server DI ",
+    "name": "zteam/Slim-parse-sdk",
+    "description": "Slim Framework 3 With Parse Server DI ",
     "keywords": [" ", "rest", "router", "psr7"],
     "homepage": "https://github.com/Z-Team-Pro/Slim-Parse-Server-SDK.git",
     "license": "MIT",
