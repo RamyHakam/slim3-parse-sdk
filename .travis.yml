@@ -18,7 +18,7 @@ matrix:
 # execute any number of scripts before the test run, custom env's are available as variables
 # omitting "script:" will default to phpunit
 # use the $DB env variable to determine the phpunit.xml to use
-script: phpunit --configuration phpunit_$DB.xml --coverage-text
+script: phpunit --configuration phpunit.xml --coverage-text
 
 # configure notifications (email, IRC, campfire etc)
 notifications:
