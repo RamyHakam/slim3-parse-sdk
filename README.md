@@ -1,5 +1,9 @@
 # Slim Framework 3 Skeleton with Parse Server SDK Dependency injection 
 ![Build Status](https://travis-ci.org/Z-Team-Pro/slim3-parse-sdk.svg?branch=master)
+![Issuse](https://img.shields.io/github/issues/Z-Team-Pro/slim3-parse-sdk.svg)
+![fork](https://img.shields.io/github/forks/Z-Team-Pro/slim3-parse-sdk.svg)
+![stars](https://img.shields.io/github/stars/Z-Team-Pro/slim3-parse-sdk.svg)
+![LICENSE](https://img.shields.io/github/license/Z-Team-Pro/slim3-parse-sdk.svg)
  
 This app depends on Slim Framwork3 Skeleton with the integration of Parse Server SDK for PHP.
 
