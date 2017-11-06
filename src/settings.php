@@ -12,25 +12,6 @@
 
 
 
-
-//Logging for local and deploy server 
-//If you will use git repo on local and Deployement server 
-
-
-  $whitelist = array('127.0.0.1','::1');
-
-if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
- $log=__DIR__ . '/../logs/Server_Log.log';
-        }
-else{
-
- $log=__DIR__ . '/../logs/app.log';
-
-}
-
-
-
-
 return [
     'settings' => [
         'displayErrorDetails' => true, // set to false in production
@@ -39,7 +20,7 @@ return [
         // Monolog settings
         'logger' => [
             'name' => 'Your Log API ',
-            'path' => $log,
+            'path' => '/../logs/app.log',
             'level' => \Monolog\Logger::DEBUG,
         ],
  // ParseClient settings
